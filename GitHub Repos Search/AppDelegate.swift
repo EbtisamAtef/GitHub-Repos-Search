@@ -1,8 +1,7 @@
-//
 //  AppDelegate.swift
 //  GitHub Repos Search
 //
-//  Created by ebtisam atef on 5/14/21.
+//  Created by ebtisam atef on 5/17/21.
 //
 
 import UIKit
